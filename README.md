@@ -1,2 +1,2 @@
-# SQL-Ansh-lamba-data
+# SQL Practice
 Data Project 1
